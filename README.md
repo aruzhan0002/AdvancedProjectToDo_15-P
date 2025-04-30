@@ -27,23 +27,23 @@ git clone https://github.com/aruzhan0002/AdvancedProjectToDo_15-P.git
 # 4. Click the 'Run' button to launch the app on an emulator or physical device
 ```
 ## 📱 Usage Guide
-# Select a date from the top calendar bar
-# Tap the "CREATE TASK" button
-# Fill in the task title, description, and select a priority
-# Press "Add" to save the task
-#Tasks will appear under the "To-Do" section for the selected day
+ Select a date from the top calendar bar
+ Tap the "CREATE TASK" button
+ Fill in the task title, description, and select a priority
+ Press "Add" to save the task
+ Tasks will appear under the "To-Do" section for the selected day
 
 ## ✅ Testing
-# Not yet implemented. Future versions can include UI testing using Jetpack Compose Testing and unit tests for logic handling.
+ Not yet implemented. Future versions can include UI testing using Jetpack Compose Testing and unit tests for logic handling.
 
 ## ⚠️ Known Issues / Limitations
-# Tasks are stored only in-memory (lost on app restart)
-# No cloud sync or database integration
-# No priority filtering implemented
+ Tasks are stored only in-memory (lost on app restart)
+ No cloud sync or database integration
+ No priority filtering implemented
 
 ## 🔗 References
-# Jetpack Compose Documentation
-# Kotlin Android Development Guide
+ Jetpack Compose Documentation
+ Kotlin Android Development Guide
 
 ## 👨‍👩‍👧‍👦 Team Members
-# Abzalkyzy Aruzhan, 220103016, 15P
+ Abzalkyzy Aruzhan, 220103016, 15P
