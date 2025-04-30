@@ -25,7 +25,7 @@ git clone https://github.com/aruzhan0002/AdvancedProjectToDo_15-P.git
 # 2. Open the project in Android Studio
 # 3. Make sure Android SDK (API 26+) is installed
 # 4. Click the 'Run' button to launch the app on an emulator or physical device
-
+```
 ## 📱 Usage Guide
 # Select a date from the top calendar bar
 # Tap the "CREATE TASK" button
