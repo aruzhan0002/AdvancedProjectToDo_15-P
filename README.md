@@ -33,6 +33,12 @@ git clone https://github.com/aruzhan0002/AdvancedProjectToDo_15-P.git
  Press "Add" to save the task
  Tasks will appear under the "To-Do" section for the selected day
 
+ ![image](https://github.com/user-attachments/assets/92a9ccf0-9b89-4d24-8c5b-888d0aad6392)
+![image](https://github.com/user-attachments/assets/97399b65-02fd-4416-b1b5-5e4ef9b724d0)
+![image](https://github.com/user-attachments/assets/67613bf3-6868-4083-8570-76bb9db78978)
+![image](https://github.com/user-attachments/assets/07749727-926e-4c0c-8586-495e615aa7f6)
+
+
 ## ✅ Testing
  Not yet implemented. Future versions can include UI testing using Jetpack Compose Testing and unit tests for logic handling.
 
